@@ -22,5 +22,7 @@ The following challenges were solved:
 
 Team URL: https://2025.irisc.tf/user?id=812
 
+![Team Score](./images/team-score.png)
+
 ## Challenge Assets
 All challenge assets are archived in the official repository. You can find them at: https://github.com/IrisSec/IrisCTF-2025-Challenges
