@@ -1,4 +1,4 @@
-# Iris CTF 2024
+# Iris CTF 2025
 The writeups in this repository correspond to the **Iris CTF 2025** event, organized by [IrisSec](https://irissec.xyz/), held from 01/04/2024 to 01/06/2024.
 
 ## Event Details
@@ -11,11 +11,11 @@ The following challenges were solved:
 
 | Challenge | Category |
 | --- | :---:
-| ✅ fuel deal | Open-Source Intelligence |
+| ✅ Fuel Deal | Open-Source Intelligence |
 | ✅ Checking Out of Winter | Open-Source Intelligence |
 | ✅ Sleuths and Sweets | Open-Source Intelligence |
 | ✅ Not Eelaborate | Open-Source Intelligence |
-| ✅ where's bobby 2 | Open-Source Intelligence |
+| ✅ Where's bobby 2 | Open-Source Intelligence |
 | ✅ Political | Web Exploitation |
 | ✅ Password Manager | Web Exploitation |
 | ✅ dotdotdot | Radio Frequency |
